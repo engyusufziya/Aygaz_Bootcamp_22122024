@@ -62,4 +62,4 @@ Daha Fazla Veri Çeşitliliği: Veri augmentasyonu tekniklerini zenginleştirere
 Daha İyi Model Mimarisi: Modelin katmanlarını daha da derinleştirerek (örneğin ResNet, EfficientNet gibi hazır mimarilerle) doğruluk oranı artırılabilir.
 Hiperparametre Optimizasyonu: Öğrenme oranı, batch_size, düzenlileştirme katsayısı (l2) gibi hiperparametreler üzerinde farklı denemeler yaparak en iyi ayarlar bulunabilir.
 
-KAGGLE LINK: https://www.kaggle.com/code/yusufziyademirel/global-ai-hub-g-r-nt-leme-bootcamp/edit
+KAGGLE LINK: https://www.kaggle.com/code/yusufziyademirel/global-ai-hub-g-r-nt-leme-bootcamp
